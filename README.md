@@ -1,0 +1,2 @@
+# GetWeather
+Simple GetWeather function
