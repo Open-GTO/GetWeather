@@ -14,7 +14,6 @@
 #endif
 
 #define _getweather_included
-#pragma library getweather
 
 /*
 	Vars
@@ -39,7 +38,7 @@ stock Weather_SetWeather(weatherid)
 #else
 	#define _ALS_SetWeather
 #endif
- 
+
 #define SetWeather Weather_SetWeather
 
 /*
